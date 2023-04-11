@@ -32,7 +32,7 @@ public class GestionJeu : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-
+        
         _tempsDepart = Time.time;
     }
 
@@ -43,7 +43,7 @@ public class GestionJeu : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    // Méthodes publiques
+    // Mï¿½thodes publiques
 
     public void AugmenterPointage()
     {
