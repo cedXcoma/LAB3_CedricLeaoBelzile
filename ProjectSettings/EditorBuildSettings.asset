@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_MyAssets/Scenes/Start.unity
+    guid: 0ee8ba7d615bc4a44b418339221a3be1
+  - enabled: 1
     path: Assets/_MyAssets/Scenes/Scene_CedricLeaoBelzileNiv1.unity
     guid: d7d7f73188f97ce478ae938848aff6a0
   - enabled: 1
@@ -14,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_MyAssets/Scenes/Scene_CedricLeaoBelzileNiv3.unity
     guid: 89f972cd75a5f044d99a1116f06e16fa
+  - enabled: 1
+    path: Assets/_MyAssets/Scenes/Fin.unity
+    guid: 2fc0edf5a9c301940945ae61ef7d65d0
   m_configObjects: {}
