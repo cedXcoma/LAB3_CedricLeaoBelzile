@@ -7,7 +7,7 @@ public class GestionScene : MonoBehaviour
 {
     public void ChangerSceneSuivante()
     {
-        int noScene = SceneManager.GetActiveScene().buildIndex; // Récupère l'index de la scène en cours
+        int noScene = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(noScene + 1);
     }
 
